@@ -2,6 +2,7 @@ package com.example.homework01danluong;
 
 import android.os.Bundle;
 import android.app.Activity;
+import android.content.Intent;
 import android.view.Menu;
 import android.view.View;
 
@@ -23,7 +24,8 @@ public class MainActivity extends Activity {
 	
 	//Called when the user clicks the Start button
 	public void greenActivity(View view){
+		Intent intent = new Intent(this, DisplayGreenActivity.class);
 		
-		
+		startActivity(intent);
 	}
 }

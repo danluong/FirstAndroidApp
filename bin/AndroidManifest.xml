@@ -22,6 +22,14 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity
+            android:name="com.example.homework01danluong.DisplayGreenActivity"
+            android:label="@string/title_activity_display_green"
+            android:parentActivityName="com.example.homework01danluong.MainActivity" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.homework01danluong.MainActivity" />
+        </activity>
     </application>
 
 </manifest>
