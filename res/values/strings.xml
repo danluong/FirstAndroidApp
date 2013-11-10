@@ -2,7 +2,7 @@
 <resources>
 
     <string name="app_name">Homework 01</string>
-    <string name="action_settings">Settings</string>
+    <string name="action_settings">Orientation</string>
     <string name="start_btn">Start</string>
     <string name="title_activity_display_green">DisplayGreenActivity</string>
 
