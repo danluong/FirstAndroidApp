@@ -2,8 +2,11 @@
 <resources>
 
     <string name="app_name">Homework 01</string>
-    <string name="action_settings">Orientation</string>
+    <string name="action_orientation">Orientation</string>
     <string name="start_btn">Start</string>
     <string name="title_activity_display_green">DisplayGreenActivity</string>
+    <string name="dialog_title">Orientation</string>
+    <string name="rotation">Rotation: </string>
+    <string name="ok">OK</string>
 
 </resources>

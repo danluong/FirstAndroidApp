@@ -17,8 +17,8 @@
         android:height="64dp"
         android:minHeight="64dp"
         android:minWidth="128dp"
+        android:onClick="greenActivity"
         android:text="@string/start_btn"
-        android:width="128dp" 
-        android:onClick="greenActivity"/>
+        android:width="128dp" />
 
 </RelativeLayout>
